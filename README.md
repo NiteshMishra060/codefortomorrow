@@ -1,9 +1,8 @@
 # codefortomorrow
-codefortomorrow
 
 #clone repo
 
-# run npm i
+#run npm i
 
 #add .env
 
